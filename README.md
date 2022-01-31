@@ -6,7 +6,6 @@ Hi, I'm Fikri Nazief from Indonesia 🇮🇩, I am a person who is interested in
 - 🌱 Vim is my favorit text editor
 - 🌱 Linux Enthusiast
 
-
 ### Connect With Me
 [Twitter](https://twitter.com/fikrinzf) | 
 [Instagram](https://instagram.com/fikrinzf) |

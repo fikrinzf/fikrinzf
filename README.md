@@ -15,3 +15,8 @@ Hi, I'm Fikri Nazief from Indonesia 🇮🇩, I am a person who is interested in
 <img src= "assets/js.png" width="35" align="left" style="margin-right:10px;"/>
 <img src= "assets/gnu-bash.png" width="35" align="left" style="margin-right:10px;"/>
 <img src= "assets/vim.png" width="35" align="left" style="margin-right:10px;"/>
+
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrinzf&hide=html)
